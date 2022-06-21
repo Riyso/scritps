@@ -1,1 +1,3 @@
-# scritps
+[ info ]
+script_vers = 1
+script_vers_text = 1.00
